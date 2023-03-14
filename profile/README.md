@@ -9,16 +9,17 @@ notes on 12 volt
 
 
 **Production:**
-1. vacuum forming
-1. 3D printing 
-1. woodworking
+1. vacuum former
+1. 3D printer
+1. woodworking tools
 1. computers
 1. auto tools
 1. screenprinting
 1. sublimation printing
-1. magnetic button maker
-1. pin button maker
+1. button maker
+1. Laser cutter
 1. delta 8 products
+1. Cricut machine
 
 **Products:**
 1. laser cut records
